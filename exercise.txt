@@ -1,0 +1,2 @@
+1. terminal is a control center that let's you make direct changes to your OS.
+2. Git allows you to keep track of your source code. Github is a platform that  helps manage your open-source projects.
